@@ -27,7 +27,7 @@
 - 이동 기능: '맛있게 먹은 것' 문구를 클릭하면 메인 페이지로 이동함.
 
 ### 🛠 Tech Stack
-Frontend: HTML, CSS (또는 사용하신 기술)
+Frontend: HTML, CSS
 
 
 ### 📂 Project Structure
