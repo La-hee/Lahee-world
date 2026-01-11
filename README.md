@@ -3,6 +3,8 @@
 
 ## 🚀 주요 기능 및 페이지 구성
 ### 1. 메인 페이지 (Main Page)
+<img width="1711" height="648" alt="Image" src="https://github.com/user-attachments/assets/1ddbf1a8-dcb5-4626-8d05-6d642af25702" />
+
 - 요일 내비게이션: 화면 중앙의 한자로 표기된 月, 火, 水, 木, 金, 土, 日 버튼이 배치되어 있음
 - 각 요일을 클릭하면 해당 요일의 상세 일기 페이지로 이동함
 
